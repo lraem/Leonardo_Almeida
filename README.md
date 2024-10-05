@@ -6,7 +6,7 @@ Atuo com :
 - Ánálise Exploratória de dados
 - Análise Explanatória de dados
 - Automações de tarefas
-- Desenvolvem insights de valor sobre dados
+- Desenvolvimento de Insights de valor sobre dados
 
 ## Minha Formação
 - Engenheiro Mecatrônico - USP-São Carlos
