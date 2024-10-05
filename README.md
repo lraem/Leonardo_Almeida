@@ -1,4 +1,4 @@
-# Olá! Eu sou [Leonardo Rocha de Almeida] 👋
+# Olá! Eu sou Leonardo Rocha de Almeida 👋
 
 ## Sobre mim
 Sou Auditor Fiscal do Municipio de São Luís do Maranhão e também Analista de Dados com 6 meses de experiência em **Python**, **Power BI** e **SQL**. Atualmente, trabalho em projetos de análise de dados com a finalidade de aumentar a eficiência, a eficácia e a economicidade de Auditorias Fiscais.
